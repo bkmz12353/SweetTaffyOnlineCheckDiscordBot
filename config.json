@@ -1,0 +1,9 @@
+{
+	"BotToken": "token",
+	"ChannelIds": [
+		1234567890123,
+		1234567890456
+	],
+	"ServerName": "SweetTaffy",
+	"HostUrl": "https://sweetpie.nic11.xyz/api/servers"
+}
